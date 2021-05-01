@@ -1,4 +1,5 @@
-// 'https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript'
+const link =
+  'https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript';
 const moveZeros = function (arr) {
   const arr1 = [];
   const arr2 = [];

@@ -1,4 +1,5 @@
-// 'https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/javascript';
+const link =
+  'https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/javascript';
 
 function firstNonRepeatingLetter(s) {
   let firstUnique;
